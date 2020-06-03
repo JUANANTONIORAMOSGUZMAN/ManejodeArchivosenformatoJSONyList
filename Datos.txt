@@ -1,0 +1,3 @@
+{"Nombre":"JUAN ANTONIO","Edad":"20","Sexo":"MASCULINO"}
+{"Nombre":"ANA PATRICIA","Edad":"22","Sexo":"FEMENINO"}
+{"Nombre":"INGRID","Edad":"18","Sexo":"FEMENINO"}
